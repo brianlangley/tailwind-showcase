@@ -24,7 +24,8 @@ After cloning this repository, open the `Beginner/Recipe-card/index.html` file i
 
 ## Screenshots
 
-![Recipe card](https://user-images.githubusercontent.com/32545895/126077818-5b9b9b9a-4b9e-4b9e-8b9a-9b0b0b6b9b0b.png)
+![Desktop](./assets/desktop.png)
+![Mobile](./assets/mobile.png)
 
 ## License
 
