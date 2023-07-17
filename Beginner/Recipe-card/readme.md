@@ -24,7 +24,12 @@ After cloning this repository, open the `Beginner/Recipe-card/index.html` file i
 
 ## Screenshots
 
+### Desktop
+
 ![Desktop](./assets/desktop.png)
+
+### Mobile
+
 ![Mobile](./assets/mobile.png)
 
 ## License
